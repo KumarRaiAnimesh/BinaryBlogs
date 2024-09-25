@@ -1,4 +1,4 @@
-# Developer Blogs 
+# Binary Blogs
 
 ## login Credentials
 - ### Username :- Tester
@@ -35,7 +35,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 - # Step 2 is to clone Git Repository
     Apply this command in the  directory where you want to save project
   
-      $ git clone https://github.com/BhaveshDwaram/Developer-Blogs-Website
+      $ git clone https://github.com/KumarRaiAnimesh/Binary-Blogs-Website
   
 Open IDE like VScode and split the terminal into two halves on half will run CLIENT part and another half will run API part 
 - #### In CLIENT terminal change the directory to client
